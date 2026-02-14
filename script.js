@@ -18,6 +18,6 @@ noBtn.addEventListener("mouseover", () => {
 
 // YES button response
 yesBtn.addEventListener("click", () => {
-    response.innerText = "YAYYYY!!! 💕 I knew it!!! 💘";
+    response.innerText = "YAYYYY!!! 💕 I knew it!!! 💘 . A special gift for the most special person in my life.";
     noBtn.style.display = "none";
 });
